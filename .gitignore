@@ -1,0 +1,5 @@
+llamafile_outputs/*.log
+venv
+*.log
+llamafile_commands.txt
+.idea
